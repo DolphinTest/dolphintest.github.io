@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="dolphin.com" resolutions="1x" timestamp="1510687921556">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="dolphin.com" resolutions="1x" timestamp="1510853061768">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="157206305" ref="index"/>
@@ -6,7 +6,7 @@
     <file name="dons.css" crc="3876131483" ref="dons"/>
     <file name="blind-test-films.css" crc="3985814287" ref="blind-test-films"/>
     <file name="blind-test-ann_es-80.css" crc="277364709" ref="blind-test-années-80"/>
-    <file name="blind-test-anime.css" crc="4143733454" ref="blind-test-anime"/>
+    <file name="blind-test-anime.css" crc="294815398" ref="blind-test-anime"/>
     <file name="blind-test-disney.css" crc="4244134623" ref="blind-test-disney"/>
     <file name="blind-test-pubs.css" crc="3943487290" ref="blind-test-pubs"/>
   </folder>
@@ -98,7 +98,6 @@
     <file name="u2707-a.png" crc="3998367155" ref="blind-test-anime"/>
     <file name="u2712.png" crc="251547185" ref="blind-test-anime"/>
     <file name="u2712-a.png" crc="251547185" ref="blind-test-anime"/>
-    <file name="u2719-4.png" crc="14830287" ref="blind-test-anime"/>
     <file name="blind-test-films-favicon.ico" crc="3833036583" ref="blind-test-films"/>
     <file name="u3248-4.png" crc="38927864" ref="blind-test-films"/>
     <file name="u3410_states.png" crc="4273696412" ref="blind-test-films"/>
@@ -147,7 +146,7 @@
   <file name="index.html" crc="3953522623" seo="true" mt="1510509282532" redirect="true"/>
   <file name="blind-test.html" crc="460255408" seo="true" mt="1510687889349" redirect="true"/>
   <file name="dons.html" crc="4237802148" seo="true" mt="1510509282566" redirect="true"/>
-  <file name="blind-test-anime.html" crc="482732315" seo="true" mt="1510687664174" redirect="true"/>
+  <file name="blind-test-anime.html" crc="223578767" seo="true" mt="1510853035607" redirect="true"/>
   <file name="blind-test-films.html" crc="112042200" seo="true" mt="1510687708033" redirect="true"/>
   <file name="blind-test-disney.html" crc="4225359914" seo="true" mt="1510687729630" redirect="true"/>
   <file name="blind-test-années-80.html" crc="4081229897" seo="true" mt="1510687750332" redirect="true"/>
